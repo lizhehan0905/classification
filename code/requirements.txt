@@ -1,0 +1,9 @@
+opencv_contrib_python
+opencv_python
+PIL
+PyQt5
+PyQt5-tools
+PyQt5_sip
+torch
+torchvision
+argparse
